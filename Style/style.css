@@ -143,6 +143,9 @@ li{
     justify-content: space-around; 
     min-width: 75%;  
 }
+.profil{
+    text-align: justify;
+}
 .formation{
     display: flex;
     flex-direction: row;
